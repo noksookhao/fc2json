@@ -1,6 +1,12 @@
-FRM JSON PACK - 20 Aug 2022 (V10)
-- Fixed incorrect NES rom identifiers in fbneo_nes_roms.json. NES downloads should now work properly (Thanks nooksookhao)
+FRM JSON PACK - 20 Aug 2022 (V11)
+- Fixed incorrect NES rom identifiers in fbneo_nes_roms.json. NES downloads should now work properly (Thanks noksookhao)
 - Fixed ultra clay fighter (Thanks tobemorecrazy)
+
+............................................................................................................
+FRM JSON PACK - 06/24/2022 (V10)
+- Naomi 2 games are in (all vf4 versions, beach spikers and virtua striker 3)
+- 1264 roms uploaded with minor fixes
+- 34 arcade romhacks had their dependencies fixed
 
 ............................................................................................................
 FRM JSON PACK - 06/21/2022 (V9)
